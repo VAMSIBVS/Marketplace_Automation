@@ -1,0 +1,48 @@
+﻿Sales Dashboard
+Last updated,June 24 2026 3:28:3 AM PDT
+
+Filter Selection
+Date,Yesterday - June 23 2026
+Sales breakdown,Marketplace total
+Fulfillment Channel,Both (Amazon and seller)
+
+Sales Snapshot
+Total Order Items,Units Ordered,Ordered Product Sales,Average units/order item,Average sales/order item
+241,257,"$8,921.77",1.07,37.02
+Compare Sales - Graph view
+Time,Yesterday (Ordered product sales),Yesterday (Units ordered),Same day last week (Ordered product sales),Same day last week (Units ordered),Same day last year (Ordered product sales),Same day last year (Units ordered)
+12AM,"$53.98",2.0,"$59.98",2.0,"$277.10",8.0
+1AM,"$48.99",1.0,"$89.97",3.0,"$0.00",0.0
+2AM,"$117.97",3.0,"$29.99",1.0,"$275.89",6.0
+3AM,"$369.74",11.0,"$250.94",6.0,"$216.64",6.0
+4AM,"$457.31",11.0,"$119.47",3.0,"$228.72",6.0
+5AM,"$242.94",6.0,"$437.89",12.0,"$314.07",10.0
+6AM,"$185.43",7.0,"$298.93",8.0,"$646.82",19.0
+7AM,"$577.17",14.0,"$244.43",7.0,"$451.55",14.0
+8AM,"$375.89",12.0,"$223.94",7.0,"$693.63",20.0
+9AM,"$659.79",22.0,"$192.96",6.0,"$439.17",11.0
+10AM,"$311.89",11.0,"$198.96",5.0,"$459.61",14.0
+11AM,"$936.58",23.0,"$139.96",4.0,"$492.13",14.0
+12PM,"$628.01",20.0,"$214.45",5.0,"$360.40",10.0
+1PM,"$577.35",18.0,"$164.46",4.0,"$532.98",17.0
+2PM,"$671.16",15.0,"$338.42",8.0,"$362.27",11.0
+3PM,"$483.48",14.0,"$259.33",7.0,"$518.38",16.0
+4PM,"$245.92",8.0,"$201.45",5.0,"$394.99",10.0
+5PM,"$281.04",7.0,"$88.99",2.0,"$313.16",9.0
+6PM,"$283.94",8.0,"$422.41",11.0,"$323.72",7.0
+7PM,"$725.78",23.0,"$119.96",4.0,"$295.96",9.0
+8PM,"$225.92",8.0,"$79.98",2.0,"$326.94",10.0
+9PM,"$242.35",6.0,"$29.99",1.0,"$341.14",7.0
+10PM,"$71.97",3.0,"$184.96",4.0,"$225.03",7.0
+11PM,"$147.17",4.0,"$29.99",1.0,"$97.96",3.0
+Compare Sales - Table view
+,Total Order Items,Units Ordered,Ordered Product Sales,Average units/order item,Average sales/order item
+Yesterday,241,257,"$8,921.77",1.07,37.02
+Same day last week,115,118,"$4,421.81",1.03,38.45
+Same day last year,233,244,"$8,588.26",1.05,36.86
+% change from same day last week,109%,117%,101.77%,3.8835032%,-3.7191164%
+Yesterday,241,257,"$8,921.77",1.07,37.02
+Same day last week,115,118,"$4,421.81",1.03,38.45
+% change from same day last year,3%,5%,3.88%,1.9047716%,0.43407446%
+Yesterday,241,257,"$8,921.77",1.07,37.02
+Same day last year,233,244,"$8,588.26",1.05,36.86

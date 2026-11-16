@@ -1,0 +1,48 @@
+﻿Sales Dashboard
+Last updated,June 24 2026 7:24:3 PM AEST
+
+Filter Selection
+Date,Yesterday - June 23 2026
+Sales breakdown,Marketplace total
+Fulfilment channel,Both (Amazon and seller)
+
+Sales Snapshot
+Total order items,Units Ordered,Ordered Product Sales,Average units/order item,Average sales/order item
+12,12,"$829.00",1.0,69.08
+Compare Sales - Graph view
+Time,Yesterday (Ordered product sales),Yesterday (Units ordered),Same day last week (Ordered product sales),Same day last week (Units ordered),Same day last year (Ordered product sales),Same day last year (Units ordered)
+12 a.m.,"$0.00",0.0,"$245.00",3.0,"$0.00",0.0
+1 a.m.,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+2AM,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+3AM,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+4 a.m.,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+5AM,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+6 a.m.,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+7AM,"$223.00",3.0,"$0.00",0.0,"$0.00",0.0
+8AM,"$65.00",1.0,"$0.00",0.0,"$0.00",0.0
+9 a.m.,"$0.00",0.0,"$231.00",3.0,"$0.00",0.0
+10 a.m.,"$144.00",2.0,"$0.00",0.0,"$0.00",0.0
+11AM,"$0.00",0.0,"$180.00",2.0,"$0.00",0.0
+12 p.m.,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+1 p.m.,"$72.00",1.0,"$44.00",1.0,"$0.00",0.0
+2PM,"$72.00",1.0,"$115.00",1.0,"$0.00",0.0
+3 p.m.,"$0.00",0.0,"$116.00",2.0,"$0.00",0.0
+4 p.m.,"$72.00",1.0,"$0.00",0.0,"$39.99",1.0
+5PM,"$0.00",0.0,"$72.00",1.0,"$0.00",0.0
+6PM,"$0.00",0.0,"$144.00",1.0,"$0.00",0.0
+7PM,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+8 p.m.,"$116.00",2.0,"$72.00",1.0,"$65.00",1.0
+9 p.m.,"$65.00",1.0,"$72.00",1.0,"$0.00",0.0
+10PM,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+11PM,"$0.00",0.0,"$0.00",0.0,"$0.00",0.0
+Compare Sales - Table view
+,Total order items,Units Ordered,Ordered Product Sales,Average units/order item,Average sales/order item
+Yesterday,12,12,"$829.00",1.0,69.08
+Same day last week,16,16,"$1,291.00",1.0,80.69
+Same day last year,2,2,"$104.99",1.0,52.49
+% change from same day last week,-25%,-25%,-35.79%,0.0%,-14.3884%
+Yesterday,12,12,"$829.00",1.0,69.08
+Same day last week,16,16,"$1,291.00",1.0,80.69
+% change from same day last year,500%,500%,689.60%,0.0%,31.60602%
+Yesterday,12,12,"$829.00",1.0,69.08
+Same day last year,2,2,"$104.99",1.0,52.49
